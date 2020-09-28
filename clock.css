@@ -1,0 +1,27 @@
+
+
+body {
+	margin-top: 50px;
+	margin-left: 30px;
+	background-color: black;
+	font-family: "Courier Prime", monospace;
+	display: inline-block;
+	word-spacing: 15px;
+
+}
+
+span{
+	color: rgb(30, 30, 30);
+	transition: all 2s ease;
+	font-size: 7vw;
+
+}
+
+span#its{
+	color: white;
+}
+span.hl{
+	color: white;
+	transition: all 2s ease;
+}
+
